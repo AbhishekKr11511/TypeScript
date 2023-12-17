@@ -1,4 +1,4 @@
-Switching from JavaScript to TypeScript can be a smooth process if you keep these key points in mind:
+* Switching from JavaScript to TypeScript can be a smooth process if you keep these key points in mind:
 
 1. Static Typing: TypeScript introduces static typing, so you'll need to define types for variables, function parameters, and return values. Embrace the type system and leverage its benefits to catch potential bugs during development.
 
@@ -14,7 +14,7 @@ Switching from JavaScript to TypeScript can be a smooth process if you keep thes
 
 7. Gradual Transition: If you have a large codebase, consider transitioning gradually by converting files incrementally or focusing on new code with TypeScript while keeping existing JavaScript code.
 
-Efficient learning method for TypeScript:
+** Efficient learning method for TypeScript:
 
 1. TypeScript Handbook: Start with the official TypeScript Handbook (https://www.typescriptlang.org/docs/handbook) to get a solid understanding of TypeScript's features and syntax.
 
