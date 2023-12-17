@@ -58,10 +58,9 @@ let greet = () => {
     return 23
 }
 
-let add = (num1 : number, num2 : number , num3: number = 10): string => {
+let add = (num1:number, num2:number, num3:number = 10):string => {
     let sum = num1 + num2 + num3
     return sum.toString()
 }
-
 let op = add(5, 15)
 console.log(op);
